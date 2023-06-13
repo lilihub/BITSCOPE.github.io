@@ -29,29 +29,26 @@ Sources of autonomic nervous system activity in the form of galvanic skin respon
 
 1. GSR Integration in OpenViBE
 
-<img width="428" alt="image" src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/2a5d7654-1577-4c9c-b9ca-1f9a957bca62">OpenViBE is an open source software platform dedicated to designing, testing and using brain-computer interfaces developed at partner Inria Bordeaux Sud-Ouest.
+<img width="400" height="200" alt="image" src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/2a5d7654-1577-4c9c-b9ca-1f9a957bca62">          <img width="330" height="200" alt="image" src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/300c1248-88bd-492d-8dc7-ca1008312fd9">
+
+OpenViBE is an open source software platform dedicated to designing, testing and using brain-computer interfaces developed at partner Inria Bordeaux Sud-Ouest.
 Sources of autonomic nervous system activity in the form of galvanic skin response, heart rate as well as movement can now be taken as input to OpenViBE with the new integration of the Shimmer gSR+ unit.
 
-<img width="428" alt="image" src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/300c1248-88bd-492d-8dc7-ca1008312fd9">                      
-
-
 <div>
-    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/bc546966-2c6b-429e-bd1e-d8899f20818f"/ width=428 height=200>
-    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/6e0d7d12-0961-4a96-ab0a-513cbb86d25d" width="120" height="120"/>
-    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/7f3a9ddc-f88c-4d0d-910a-a1a2ae1f1846"/ width=428 height=180>
+    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/bc546966-2c6b-429e-bd1e-d8899f20818f"/ width=400 height=180>
+    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/6e0d7d12-0961-4a96-ab0a-513cbb86d25d" width="100" height="100"/>
+    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/7f3a9ddc-f88c-4d0d-910a-a1a2ae1f1846"/ width=400 height=160>
 <div>
 
 2. Editable VR Gallery Experience
-
+    
+   UPV have developed initial version of VR gallery suitable for first BCI experiments. Eye tracking feasibility underway with partner NCU
 <div>
-    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/919fe2c4-f5e2-4e37-9365-96c6189ccf7c"/ width=428 height=300>
-    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/23437fcf-9758-46d1-b1e6-aacba94e5805" width="133" height="80"/>
-    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/49b59d7c-7286-49f7-8ffc-e0d11613dfb7"/ width=428 height=300>
+    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/919fe2c4-f5e2-4e37-9365-96c6189ccf7c"/ width=400 height=280>
+    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/23437fcf-9758-46d1-b1e6-aacba94e5805" width="128" height="75"/>
+    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/49b59d7c-7286-49f7-8ffc-e0d11613dfb7"/ width=400 height=280>
 <div>
   
-
-UPV have developed initial version of VR gallery suitable for first BCI experiments. Eye tracking feasibility underway with partner NCU
-
 3. Public Engagement  - Artists in Residence
 
 ![image](https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/fb046a40-bef0-4bff-b0d7-f9150c20fef1)
