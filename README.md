@@ -29,34 +29,34 @@ Sources of autonomic nervous system activity in the form of galvanic skin respon
 
 1. GSR Integration in OpenViBE
 
-<img width="260" height="160" alt="image" src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/2a5d7654-1577-4c9c-b9ca-1f9a957bca62">          <img width="260" height="160" alt="image" src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/300c1248-88bd-492d-8dc7-ca1008312fd9">
+<img width="200" height="120" alt="image" src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/2a5d7654-1577-4c9c-b9ca-1f9a957bca62">          <img width="200" height="120" alt="image" src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/300c1248-88bd-492d-8dc7-ca1008312fd9">
 
-OpenViBE is an open source software platform dedicated to designing, testing and using brain-computer interfaces developed at partner Inria Bordeaux Sud-Ouest.
-Sources of autonomic nervous system activity in the form of galvanic skin response, heart rate as well as movement can now be taken as input to OpenViBE with the new integration of the Shimmer gSR+ unit.
+    OpenViBE is an open source software platform dedicated to designing, testing and using brain-computer interfaces developed at partner Inria Bordeaux Sud-Ouest.
+    Sources of autonomic nervous system activity in the form of galvanic skin response, heart rate as well as movement can now be taken as input to OpenViBE with the new integration of the Shimmer gSR+ unit.
 
 <div>
-    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/bc546966-2c6b-429e-bd1e-d8899f20818f" width="240" height="80">
-    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/6e0d7d12-0961-4a96-ab0a-513cbb86d25d" width="50" height="50"/>
-    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/7f3a9ddc-f88c-4d0d-910a-a1a2ae1f1846" width="240" height="80">
+    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/bc546966-2c6b-429e-bd1e-d8899f20818f" width="160" height="30">
+    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/6e0d7d12-0961-4a96-ab0a-513cbb86d25d" width="30" height="30"/>
+    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/7f3a9ddc-f88c-4d0d-910a-a1a2ae1f1846" width="160" height="30">
 <div>
 
 2. Editable VR Gallery Experience
     
    UPV have developed initial version of VR gallery suitable for first BCI experiments. Eye tracking feasibility underway with partner NCU
 <div>
-    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/919fe2c4-f5e2-4e37-9365-96c6189ccf7c" width="260" height="160">
-    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/23437fcf-9758-46d1-b1e6-aacba94e5805" width="35" height="15"/>
-    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/49b59d7c-7286-49f7-8ffc-e0d11613dfb7" width="260" height="160">
+    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/919fe2c4-f5e2-4e37-9365-96c6189ccf7c" width="200" height="100">
+    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/23437fcf-9758-46d1-b1e6-aacba94e5805" width="25" height="10"/>
+    <img align=middle src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/49b59d7c-7286-49f7-8ffc-e0d11613dfb7" width="200" height="100">
 <div>
   
 3. Public Engagement  - Artists in Residence
 
-<img width="150" height="200" alt="image" src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/fb046a40-bef0-4bff-b0d7-f9150c20fef1"> 
-Erin Redmond’s practice inhabits a space between art, science, and ecology and has elements of sculpture, installation art, and participatory/interactive art. Erin connects the BITSCOPE consortium with galleries, artists and other stakeholders outside the academic domain and is an active contributor of pieces to the new VR gallery.
+    <img width="150" height="200" alt="image" src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/fb046a40-bef0-4bff-b0d7-f9150c20fef1"> 
+    Erin Redmond’s practice inhabits a space between art, science, and ecology and has elements of sculpture, installation art, and participatory/interactive art. Erin connects the BITSCOPE consortium with     galleries, artists and other stakeholders outside the academic domain and is an active contributor of pieces to the new VR gallery.
 
-<img width="160" height="180" alt="image" src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/60c404da-1d49-43f1-a531-eb3962f52f1a"> AlanJames Burns (he/they), is a neurodivergent, environmental and audio-visual artist and curator producing interactive, socially engaged and site-specific exhibitions. The focal points of their artistic practice are disability, climate change and the human mind.
+    <img width="160" height="180" alt="image" src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/60c404da-1d49-43f1-a531-eb3962f52f1a"> AlanJames Burns (he/they), is a neurodivergent,           environmental and audio-visual artist and curator producing interactive, socially engaged and site-specific exhibitions. The focal points of their artistic practice are disability, climate change and       the human mind.
 
-AlanJames’ work with DCU and BITSCOPE uses interactive BCI technologies as a creative medium to explore the intersection of climate change and neurodiversity. AlanJames is interested in conceptualising and visualising the differences in people’s brain activity as a positive and creative human ability to solve problem and create change but that can only fully be achieved through collaboration and putting all of our diverse minds together.
+    AlanJames’ work with DCU and BITSCOPE uses interactive BCI technologies as a creative medium to explore the intersection of climate change and neurodiversity. AlanJames is interested in conceptualising     and visualising the differences in people’s brain activity as a positive and creative human ability to solve problem and create change but that can only fully be achieved through collaboration and           putting all of our diverse minds together.
 
 
 
