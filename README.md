@@ -51,9 +51,10 @@ Sources of autonomic nervous system activity in the form of galvanic skin respon
   
 3. Public Engagement  - Artists in Residence
 
-<img width="170" height="220" alt="image" src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/fb046a40-bef0-4bff-b0d7-f9150c20fef1"> Erin Redmond’s practice inhabits a space between art, science, and ecology and has elements of sculpture, installation art, and participatory/interactive art. Erin connects the BITSCOPE consortium with galleries, artists and other stakeholders outside the academic domain and is an active contributor of pieces to the new VR gallery.
+<img width="170" height="220" alt="image" src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/fb046a40-bef0-4bff-b0d7-f9150c20fef1"> 
+Erin Redmond’s practice inhabits a space between art, science, and ecology and has elements of sculpture, installation art, and participatory/interactive art. Erin connects the BITSCOPE consortium with galleries, artists and other stakeholders outside the academic domain and is an active contributor of pieces to the new VR gallery.
 
-<img width="190" height="220" alt="image" src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/60c404da-1d49-43f1-a531-eb3962f52f1a">  AlanJames Burns (he/they), is a neurodivergent, environmental and audio-visual artist and curator producing interactive, socially engaged and site-specific exhibitions. The focal points of their artistic practice are disability, climate change and the human mind.
+<img width="190" height="220" alt="image" src="https://github.com/lilihub/BITSCOPE.github.io/assets/37544742/60c404da-1d49-43f1-a531-eb3962f52f1a"> AlanJames Burns (he/they), is a neurodivergent, environmental and audio-visual artist and curator producing interactive, socially engaged and site-specific exhibitions. The focal points of their artistic practice are disability, climate change and the human mind.
 
 AlanJames’ work with DCU and BITSCOPE uses interactive BCI technologies as a creative medium to explore the intersection of climate change and neurodiversity. AlanJames is interested in conceptualising and visualising the differences in people’s brain activity as a positive and creative human ability to solve problem and create change but that can only fully be achieved through collaboration and putting all of our diverse minds together.
 
